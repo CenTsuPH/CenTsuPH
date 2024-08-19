@@ -20,11 +20,12 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-Contact : vincenthilario56@gmail.com
+
 
 ### 📊 Stats
 
 ![CenTsu GitHub stats](https://github-readme-stats.vercel.app/api?username=CenTsuPH&show_icons=true&theme=gruvbox)
+Contact : vincenthilario56@gmail.com
 <a href="https://github.com/AKING110/AKING-PRO"><img title="AKING-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=CenTsuPH&repo=centsu&theme=vision-friendly-dark"></a>
 <a href="https://github.com/AKING110/AKING"><img title="AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=CenTsuPH&repo=OPEN-SOURCE-&theme=vision-friendly-dark"></a>
 
