@@ -3,6 +3,10 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+<img src="https://github.com/CenTsuPH/haha/blob/main/9078-zerotwo-hypedfast.gif" width="50px"></i></b></h2>
+<img src="https://github.com/CenTsuPH/haha/blob/main/3285-nezuko-jump.gif" width="50px"></i></b></h2>
+<img src="https://github.com/CenTsuPH/haha/blob/main/5903-anyayay.gif" width="50px"></i></b></h2>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
