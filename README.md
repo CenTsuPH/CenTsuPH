@@ -1,6 +1,6 @@
 # CenTsuPH<img src="https://github.com/CenTsuPH/haha/blob/main/11991-noko-3.png" width="50px"></i></b></h2>
 
-I'm a dedicated cybersecurity specialist at the Philippine CERT, committed to safeguarding digital landscapes. As an indie full-stack developer and content creator, I build my version of the digital world one step at a time. All my coding projects are crafted from the ground up, meticulously planned and designed to solve real-life problems with code. Passionate about innovation and security, I strive to make the internet a safer place while sharing my journey with others.
+I'm a dedicated cybersecurity specialist at the Philippine CERT, committed to safeguarding digital landscapes. As an indie full-stack developer and content creator, I build my version of the digital world one step at a time. All my coding projects are crafted from the ground up, meticulously planned and designed to solve real-life problems with code. Passionate about innovation and security, I strive to make the internet a safer place while sharing my journey with others.</b>
 
 <img src="https://github.com/CenTsuPH/haha/blob/main/9078-zerotwo-hypedfast.gif" width="50px"></i></b></h2>
 <img src="https://github.com/CenTsuPH/haha/blob/main/3285-nezuko-jump.gif" width="50px"></i></b></h2>
