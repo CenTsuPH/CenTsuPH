@@ -6,6 +6,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img src="https://github.com/CenTsuPH/haha/blob/main/3285-nezuko-jump.gif" width="50px"></i></b></h2>
 <img src="https://github.com/CenTsuPH/haha/blob/main/5903-anyayay.gif" width="50px"></i></b></h2>
 
+Contact : vincenthilario56@gmail.com
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -25,7 +26,6 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 ![CenTsu GitHub stats](https://github-readme-stats.vercel.app/api?username=CenTsuPH&show_icons=true&theme=gruvbox)
-Contact : vincenthilario56@gmail.com
 <a href="https://github.com/AKING110/AKING-PRO"><img title="AKING-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=CenTsuPH&repo=centsu&theme=vision-friendly-dark"></a>
 <a href="https://github.com/AKING110/AKING"><img title="AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=CenTsuPH&repo=OPEN-SOURCE-&theme=vision-friendly-dark"></a>
 
