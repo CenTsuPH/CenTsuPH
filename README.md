@@ -25,7 +25,6 @@ Contact : vincenthilario56@gmail.com
 ### 📊 Stats
 
 ![CenTsu GitHub stats](https://github-readme-stats.vercel.app/api?username=CenTsuPH&show_icons=true&theme=gruvbox)
-![github stats](https://github-readme-stats.vercel.app/api?username=AKING110&show_icons=true&theme=dark)
 <a href="https://github.com/AKING110/AKING-PRO"><img title="AKING-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=CenTsuPH&repo=centsu&theme=vision-friendly-dark"></a>
 <a href="https://github.com/AKING110/AKING"><img title="AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=CenTsuPH&repo=OPEN-SOURCE-&theme=vision-friendly-dark"></a>
 
