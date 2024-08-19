@@ -1,5 +1,7 @@
 # CenTsuPH<img src="https://github.com/CenTsuPH/haha/blob/main/11991-noko-3.png" width="50px"></i></b></h2>
 
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
 <img src="https://github.com/CenTsuPH/haha/blob/main/9078-zerotwo-hypedfast.gif" width="50px"></i></b></h2>
 <img src="https://github.com/CenTsuPH/haha/blob/main/3285-nezuko-jump.gif" width="50px"></i></b></h2>
 <img src="https://github.com/CenTsuPH/haha/blob/main/5903-anyayay.gif" width="50px"></i></b></h2>
