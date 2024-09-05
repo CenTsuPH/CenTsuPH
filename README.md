@@ -67,13 +67,12 @@ Feel Free To Clone This Project. For Major Changes, Please Open An Issue First T
 
 <h2 align="left">Termux > </h2><br>
 
-𝐓𝐞𝐫𝐦𝐮𝐱 𝐋𝐢𝐧𝐤:
-
+```𝐓𝐞𝐫𝐦𝐮𝐱 link:
 𝟔𝟒 𝐁𝐢𝐭:
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_x86_64.apk
 𝟑𝟐 𝐁𝐢𝐭:
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_x86.apk
-
+```
 
 ```python
 SIMS
