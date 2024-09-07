@@ -97,7 +97,7 @@ rm -rf centsu
 git clone https://github.com/CenTsuPH/centsu
 cd centsu
 git pull
-python enc.py
+python RNDM.py
 ```
 
 # Report bugs
