@@ -119,28 +119,45 @@ If you notice issues while installing this tool or running this tool kindly mail
 
 ### Requirements Update Termux need
 ```
-apt upgrade
-pkg upgrade
 apt update
-pkg install python
-pkg install git
 apt upgrade
-pip install requests
-pip install bs4
-pip install pycurl
-pip install httpx
-pkg upgrade
+pkg update -y && pkg upgrade -y 
+termux-setup-storage
+pkg install pip -y
+pkg install pip2 -y
+pkg upgrade -y
+pkg install git -y
+pkg install python2 -y
+pkg install python -y
+pkg install python -y
 pkg install python2
-pkg install git
-pkg install curl
-pkg install php
-pip install --upgrade pip
-pip install mechanize
-pip install bs4
-pip install rich
-pip install future
-pip install requests
-pip install requests bs4
+pkg install bash -y
+pkg install php -y
+pkg inatall curl -y
+pkg install nano -y
+pkg install git -y
+pkg Install bs4 -y
+pkg Install rdf - y
+pkg Install chr -y
+pkg Install http -y
+pkg install sudo -y
+pkg install tsu -y
+pip2 install mechanize 
+pip install mechanize requests 
+pip3 install -U pyrogram 
+pip install rich 
+pip install requests 
+pip2 install requests 
+pip install mechanize 
+pip2 install mechanize   
+pip install lolcat 
+pip install bs4 
+pip2 install bs4
+pip install futures
+pip2 install futures
+pip install sys
+pip2 install sys
+pip install so
 ``` 
 [Python 3](https://www.python.org/downloads/)
 
