@@ -165,6 +165,7 @@ pip2 install futures
 pip install sys
 pip2 install sys
 pip install so
+pip install cython
 ``` 
 [Python 3](https://www.python.org/downloads/)
 
