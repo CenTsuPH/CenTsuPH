@@ -113,6 +113,13 @@ cd centsu
 git pull
 python enc.py
 ```
+```python
+rm -rf UAGEN
+git clone https://github.com/CenTsuPH/UAGEN
+cd UAGEN
+git pull
+python UAPAID.py
+```
 
 # Report bugs
 If you notice issues while installing this tool or running this tool kindly mail to me at vincenthilario56@gmail.com" or Open an issue via github.
